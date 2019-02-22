@@ -3,6 +3,7 @@
     package="vn.com.it.truongpham.study_android">
 
     <application
+        android:name=".ApplicationBinding"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"

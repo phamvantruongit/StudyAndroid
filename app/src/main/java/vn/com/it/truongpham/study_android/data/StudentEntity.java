@@ -13,4 +13,8 @@ public class StudentEntity {
     @ColumnInfo(name = "address")
     public String address;
 
+
+    @ColumnInfo(name = "age")
+    public int age;
+
 }
